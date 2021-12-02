@@ -29,11 +29,11 @@
     -o-transition: all 500ms ease;
 }
 
-.social ul li .icon-envelope {background:#4E4D52;}
-.social ul li .icon-location {background:#4E4D52;}
-.social ul li .icon-facebook2 {background:#4E4D52;}
-.social ul li .icon-phone {background:#4E4D52;}
-.social ul li .icon-instagram {background:#4E4D52;}
+.social ul li .icon-envelope {background:#b1b1b1;}
+.social ul li .icon-location {background: #319F4F;}
+.social ul li .icon-facebook2 {background:#1A71E6;}
+.social ul li .icon-phone {background:#273B8A;}
+.social ul li .icon-instagram {background:#ED4957;}
 
 .social ul li a:hover {
     padding: 10px 30px;
